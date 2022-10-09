@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+input {
+  color: black;
+}
+
+body {
+  background-color: #e8c07d;
+}
+
+h2 {
+  font-family: "Rubik Moonrocks", cursive;
+}
+
+* {
+  font-family: "Indie Flower", cursive;
+}
+
+button {
+  border-radius: 30%;
+}
+.router-link-active {
+  color: #be8c63;
+  border-radius: 25%;
+}
